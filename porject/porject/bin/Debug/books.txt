@@ -1,0 +1,4 @@
+The Clean Coder,Robert Martin,cs,False
+Generative AI with LangChain,Ben Auffarth,ai,False
+AI Engineering,Chip Huyen,ai,True
+Writing AI Prompts for Beginners,Nick Lubrosky,ai,False

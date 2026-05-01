@@ -1,0 +1,16 @@
+A:\c#\porject\porject\bin\Debug\porject.exe.config
+A:\c#\porject\porject\bin\Debug\porject.exe
+A:\c#\porject\porject\bin\Debug\porject.pdb
+A:\c#\porject\porject\obj\Debug\porject.csproj.AssemblyReference.cache
+A:\c#\porject\porject\obj\Debug\porject.Properties.Resources.resources
+A:\c#\porject\porject\obj\Debug\porject.csproj.GenerateResource.cache
+A:\c#\porject\porject\obj\Debug\porject.csproj.CoreCompileInputs.cache
+A:\c#\porject\porject\obj\Debug\porject.exe
+A:\c#\porject\porject\obj\Debug\porject.pdb
+A:\c#\porject\porject\obj\Debug\porject.exe.config
+A:\c#\porject\porject\obj\Debug\porject.PL.FRM_EDIT.resources
+A:\c#\porject\porject\obj\Debug\porject.PL.FRM_ADDCAT.resources
+A:\c#\porject\porject\obj\Debug\porject.PL.FRM_ADDBOOK.resources
+A:\c#\porject\porject\obj\Debug\porject.PL.FRM_MIAN.resources
+A:\c#\porject\porject\obj\Debug\porject.PL.FRM_EDITBOOK.resources
+A:\c#\porject\porject\obj\Debug\porject.PL.FRM_LOGIN.resources
